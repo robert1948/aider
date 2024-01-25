@@ -1,0 +1,2 @@
+# aider
+Aider Demo Project
